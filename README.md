@@ -2,7 +2,7 @@
 
 Following along Michael Hartl's railstutorial
 
-Build steps -
+* Build steps -
 
 `rails new toy_app`
 
@@ -14,4 +14,4 @@ Build steps -
 
 `rails db:migrate`
 
-validations happen in models
+* validations happen in models
